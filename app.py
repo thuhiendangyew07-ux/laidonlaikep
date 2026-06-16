@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://drive.google.com/file/d/1wj67nFtjZh_Gz_4DIsh38QkKXPw4zgwx/view?usp=drivesdk")
+st.image("IMG_9813.jpeg")
 # Tiêu đề ứng dụng
 st.title("Ứng dụng tính tiền gửi tiết kiệm_Lê Thị Hiền")
 
