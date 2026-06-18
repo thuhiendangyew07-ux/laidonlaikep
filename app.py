@@ -1,5 +1,5 @@
 import streamlit as st
-st.image ("
+st.image ("IMG_9813.jpeg")
 st.title("💵 Ứng dụng tính Thuế Thu nhập cá nhân - Lê Thị Hiền")
 
 # Nhập dữ liệu
